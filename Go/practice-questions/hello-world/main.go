@@ -2,4 +2,4 @@
 
 // import the fmt package
 
-// define a 'main' function that prints "Hello-WOrld!" to the console
+// define a 'main' function that prints "Hello-World!" to the console
