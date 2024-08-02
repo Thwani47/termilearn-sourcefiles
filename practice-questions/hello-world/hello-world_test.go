@@ -7,7 +7,7 @@ import (
 	"testing"
 )
 
-const filePath = "../../practice-questions/hello-world/main.go"
+const filePath = "main.go"
 
 // TestPackageName tests that the main package is defined
 func TestPackageName(t *testing.T) {
